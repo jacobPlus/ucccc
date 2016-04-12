@@ -4,9 +4,9 @@
   */
 
 //define your token
-define("TOKEN", "jacob");
+define("TOKEN", "ucccc");
 $wechatObj = new wechatCallbackapiTest();
-$wechatObj->responseMsg();
+//$wechatObj->responseMsg();
 
 
 class wechatCallbackapiTest
